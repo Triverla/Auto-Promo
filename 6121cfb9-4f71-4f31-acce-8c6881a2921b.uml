@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>6121cfb9-4f71-4f31-acce-8c6881a2921b</OriginalElement>
+  <nodes>
+    <node x="744.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.degree</node>
+    <node x="0.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.hod_comments</node>
+    <node x="932.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.aper_faculty_comments</node>
+    <node x="245.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.facultyapproved</node>
+    <node x="622.0" y="0.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.scoring_system</node>
+    <node x="882.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.change_in_academic_achievements</node>
+    <node x="896.0" y="0.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.academic_qualifications</node>
+    <node x="965.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.rank</node>
+    <node x="1153.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.roles</node>
+    <node x="221.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.aper_immediate_supervisor_comments</node>
+    <node x="661.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.department</node>
+    <node x="1147.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.aper_a&amp;pc_decision</node>
+    <node x="218.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.staff_children</node>
+    <node x="0.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.aper_complex_comments</node>
+    <node x="474.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.complex_approved</node>
+    <node x="1186.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.degree_class</node>
+    <node x="504.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.head_of_dept</node>
+    <node x="703.0" y="943.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.hodapproved</node>
+    <node x="436.0" y="736.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.vacancies</node>
+    <node x="0.0" y="1128.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.faculty</node>
+    <node x="1167.0" y="0.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.staff_publications</node>
+    <node x="0.0" y="1292.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.migrations</node>
+    <node x="287.0" y="0.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.aper_form</node>
+    <node x="0.0" y="0.0">6121cfb9-4f71-4f31-acce-8c6881a2921b.TABLE:staffpromotion.staff</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7665128543177323" x="651.0061919504644" y="343.3337633298934" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
