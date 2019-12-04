@@ -1,4 +1,4 @@
-# Auto-Promo
+# Automated Staff Promotion System
 Automated Staff Promotion System for Nigerian Universities
 
 ### Technologies Used
